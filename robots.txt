@@ -1,4 +1,9 @@
-User-agent: *
-Allow: /
+User-agent: Yeti
+Disallow: /
+Allow: /deposit-calculator/
+
+User-agent: Googlebot
+Disallow: /
+Allow: /deposit-calculator/
 
 Sitemap: https://ihateindex.github.io/sitemap.xml
